@@ -53,7 +53,7 @@ namespace src;
         }
 
         public function setFabricante($fabricante){
-            $this->fabricante = $fabricante;
+            $this->fabricante = $fa;
         }
 
         public function setLanceMinimo($lanceMinimo){
